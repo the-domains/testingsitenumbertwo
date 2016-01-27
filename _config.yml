@@ -1,0 +1,28 @@
+name: TestingSiteNumberTwo
+favicon: null
+layout_spectrum: 0.6215575151145458
+typography_spectrum: 0.7560787356924266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8951933549251407
+  lightness: 0.9697613371536136
+  saturation: 0.6207163252402097
+  rhythmicContrast: 0.545887823915109
+purpose: []
